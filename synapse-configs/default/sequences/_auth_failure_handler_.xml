@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><sequence xmlns="http://ws.apache.org/ns/synapse" name="_auth_failure_handler_">
+    <property name="error_message_type" value="application/xml"/>
+    <sequence key="_build_"/>
+</sequence>

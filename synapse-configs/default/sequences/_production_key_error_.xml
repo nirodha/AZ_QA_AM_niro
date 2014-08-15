@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><sequence xmlns="http://ws.apache.org/ns/synapse" name="_production_key_error_">
+    <property name="ERROR_CODE" value="900901"/>
+    <property name="ERROR_MESSAGE" value="Production key offered to the API with no production endpoint"/>
+    <property name="CUSTOM_HTTP_SC" value="403"/>
+    <sequence key="fault"/>
+</sequence>

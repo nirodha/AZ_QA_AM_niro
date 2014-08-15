@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><sequence xmlns="http://ws.apache.org/ns/synapse" name="_throttle_out_handler_">
+    <sequence key="_build_"/>
+    <property name="X-JWT-Assertion" scope="transport" action="remove"/>
+</sequence>
